@@ -140,3 +140,9 @@ surveyelapse
 
 # Expected Costs
 No costs are expected for data. One developer will be used for the application development and only open source tools will be used for statistical analysis.
+
+# Molly's 1st Comment 
+Need to explain how you're going to take the user's data and correlate it to Machiavellian personality traits
+
+# Molly's 2nd Comment
+Need to explain the point of the optional survey 
