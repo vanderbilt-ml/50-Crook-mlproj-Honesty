@@ -1,30 +1,35 @@
 # 50-Crook-mlproj-Honesty
-Predict whether religious affiliation and personality type have a correlation with Machiavellian personality traits
+Predict whether religious affiliation and personality type have a correlation with Machivallian personality traits.
+The data set for this project will be the Machivallianism Test set from Kaggle which features the results of a Mach-IV survey administered to a group of people.
+The survey featured 20 questions, which scores a person's Machivallian personality indicators using a score of 20-100, with 60 and over equated to a high
+percentage. Survey takers were asked to further participate in additional questions and demographic data, but it was purely optional. For the purposes of this project, only entries that feature the optional results will be vetted.
+
+The data that will be weighed is indicated in the Data Items section of this README, but will basically involve calculating the Mach-IV score and leveraging answers to certain questions as indicators of dishonest traits. The project will then evaluate the demographic data of the data set in order to predict specific groupings.
 
 # Project Data
 
 Data Dictionary contains the following elements:
 The main body of the consisted of 20 questions. The text of those questions is below.
 
-"Q1" : "Never tell anyone the real reason you did something unless it is useful to do so.",
-"Q2" : "The best way to handle people is to tell them what they want to hear.",
-"Q3" : "One should take action only when sure it is morally right.",
-"Q4" : "Most people are basically good and kind.",
-"Q5" : "It is safest to assume that all people have a vicious streak and it will come out when they are given a chance.",
-"Q6" : "Honesty is the best policy in all cases.",
-"Q7" : "There is no excuse for lying to someone else.",
-"Q8" : "Generally speaking, people won't work hard unless they're forced to do so.",
-"Q9" : "All in all, it is better to be humble and honest than to be important and dishonest.",
-"Q10" : "When you ask someone to do something for you, it is best to give the real reasons for wanting it rather than giving reasons which carry more weight.",
-"Q11" : "Most people who get ahead in the world lead clean, moral lives.",
-"Q12" : "Anyone who completely trusts anyone else is asking for trouble.",
-"Q13" : "The biggest difference between most criminals and other people is that the criminals are stupid enough to get caught.",
-"Q14" : "Most people are brave.",
-"Q15" : "It is wise to flatter important people.",
-"Q16" : "It is possible to be good in all respects.",
-"Q17" : "P.T. Barnum was wrong when he said that there's a sucker born every minute.",
-"Q18" : "It is hard to get ahead without cutting corners here and there.",
-"Q19" : "People suffering from incurable diseases should have the choice of being put painlessly to death.",
+"Q1" : "Never tell anyone the real reason you did something unless it is useful to do so."
+"Q2" : "The best way to handle people is to tell them what they want to hear."
+"Q3" : "One should take action only when sure it is morally right."
+"Q4" : "Most people are basically good and kind."
+"Q5" : "It is safest to assume that all people have a vicious streak and it will come out when they are given a chance."
+"Q6" : "Honesty is the best policy in all cases."
+"Q7" : "There is no excuse for lying to someone else."
+"Q8" : "Generally speaking, people won't work hard unless they're forced to do so."
+"Q9" : "All in all, it is better to be humble and honest than to be important and dishonest."
+"Q10" : "When you ask someone to do something for you, it is best to give the real reasons for wanting it rather than giving reasons which carry more weight."
+"Q11" : "Most people who get ahead in the world lead clean, moral lives."
+"Q12" : "Anyone who completely trusts anyone else is asking for trouble."
+"Q13" : "The biggest difference between most criminals and other people is that the criminals are stupid enough to get caught."
+"Q14" : "Most people are brave."
+"Q15" : "It is wise to flatter important people."
+"Q16" : "It is possible to be good in all respects."
+"Q17" : "P.T. Barnum was wrong when he said that there's a sucker born every minute."
+"Q18" : "It is hard to get ahead without cutting corners here and there."
+"Q19" : "People suffering from incurable diseases should have the choice of being put painlessly to death."
 "Q20" : "Most people forget more easily the death of their parents than the loss of their property."
 
 The questions were presented one at a time in a random order. Users responded to each item on a five point scale: 1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree.
