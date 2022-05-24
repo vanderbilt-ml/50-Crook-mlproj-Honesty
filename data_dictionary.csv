@@ -1,0 +1,106 @@
+﻿Feature,Description
+Q1A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q1I,Position of the question in the survey (1-20)
+Q1E,Time spent on the question (in milliseconds)
+Q2A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q2I,Position of the question in the survey (1-20)
+Q2E,Time spent on the question (in milliseconds)
+Q3A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q3I,Position of the question in the survey (1-20)
+Q3E,Time spent on the question (in milliseconds)
+Q4A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q4I,Position of the question in the survey (1-20)
+Q4E,Time spent on the question (in milliseconds)
+Q5A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q5I,Position of the question in the survey (1-20)
+Q5E,Time spent on the question (in milliseconds)
+Q6A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q6I,Position of the question in the survey (1-20)
+Q6E,Time spent on the question (in milliseconds)
+Q7A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q7I,Position of the question in the survey (1-20)
+Q7E,Time spent on the question (in milliseconds)
+Q8A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q8I,Position of the question in the survey (1-20)
+Q8E,Time spent on the question (in milliseconds)
+Q9A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q9I,Position of the question in the survey (1-20)
+Q9E,Time spent on the question (in milliseconds)
+Q10A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q10I,Position of the question in the survey (1-20)
+Q10E,Time spent on the question (in milliseconds)
+Q11A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q11I,Position of the question in the survey (1-20)
+Q11E,Time spent on the question (in milliseconds)
+Q12A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q12I,Position of the question in the survey (1-20)
+Q12E,Time spent on the question (in milliseconds)
+Q13A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q13I,Position of the question in the survey (1-20)
+Q13E,Time spent on the question (in milliseconds)
+Q14A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q14I,Position of the question in the survey (1-20)
+Q14E,Time spent on the question (in milliseconds)
+Q15A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q15I,Position of the question in the survey (1-20)
+Q15E,Time spent on the question (in milliseconds)
+Q16A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q16I,Position of the question in the survey (1-20)
+Q16E,Time spent on the question (in milliseconds)
+Q17A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q17I,Position of the question in the survey (1-20)
+Q17E,Time spent on the question (in milliseconds)
+Q18A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q18I,Position of the question in the survey (1-20)
+Q18E,Time spent on the question (in milliseconds)
+Q19A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q19I,Position of the question in the survey (1-20)
+Q19E,Time spent on the question (in milliseconds)
+Q20A,"User answer to question (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+Q20I,Position of the question in the survey (1-20)
+Q20E,Time spent on the question (in milliseconds)
+country,the user's network location (two-letter country abbreviation)
+introelapse,time spent on the intro page (in seconds)
+testelapse,time spent on the test (in seconds)
+surveyelapse,time spent on the survey (in seconds)
+TIPI1,"Extraverted, enthusiastic (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI2,"Critical, quarrelsome (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI3,"Dependable, self-disciplined (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI4,"Anxious, easily upset (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI5,"Open to new experiences, complex (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI6,"Reserved, quiet (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI7,"Sympathetic, warm (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI8,"Disorganized, careless (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI9,"Calm, emotionally stable (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+TIPI10,"Conventional, uncreative (1=Disagree, 2=Slightly disagree, 3=Neutral, 4=Slightly agree, 5=Agree)"
+VCL1,"boat (1 = knows definition, 0 = does not know definition)"
+VCL2,"incoherent (1 = knows definition, 0 = does not know definition)"
+VCL3,"pallid (1 = knows definition, 0 = does not know definition)"
+VCL4,"robot (1 = knows definition, 0 = does not know definition)"
+VCL5,"audible (1 = knows definition, 0 = does not know definition)"
+VCL6,"cuivocal (1 = knows definition, 0 = does not know definition)"
+VCL7,"paucity (1 = knows definition, 0 = does not know definition)"
+VCL8,"epistemology (1 = knows definition, 0 = does not know definition)"
+VCL9,"florted (1 = knows definition, 0 = does not know definition)"
+VCL10,"decide (1 = knows definition, 0 = does not know definition)"
+VCL11,"pastiche (1 = knows definition, 0 = does not know definition)"
+VCL12,"verdid (1 = knows definition, 0 = does not know definition)"
+VCL13,"abysmal (1 = knows definition, 0 = does not know definition)"
+VCL14,"lucid (1 = knows definition, 0 = does not know definition)"
+VCL15,"betray (1 = knows definition, 0 = does not know definition)"
+VCL16,"funny (1 = knows definition, 0 = does not know definition)"
+education,"How much education have you completed?, 1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree"
+urban,"What type of area did you live when you were a child?, 1=Rural (country side), 2=Suburban, 3=Urban (town, city)"
+gender,"What is your gender?, 1=Male, 2=Female, 3=Other"
+engnat,"Is English your native language?, 1=Yes, 2=No"
+age,How many years old are you?
+screenw,width of user's device in pixels
+screenh,height of user's device in pixels
+hand,"What hand do you use to write with?, 1=Right, 2=Left, 3=Both"
+religion,"What is your religion?, 1=Agnostic, 2=Atheist, 3=Buddhist, 4=Christian (Catholic), 5=Christian (Mormon), 6=Christian (Protestant), 7=Christian (Other), 8=Hindu, 9=Jewish, 10=Muslim, 11=Sikh, 12=Other"
+orientation,"What is your sexual orientation?, 1=Heterosexual, 2=Bisexual, 3=Homosexual, 4=Asexual, 5=Other"
+race,"What is your race?, 10=Asian, 20=Arab, 30=Black, 40=Indigenous Australian, 50=Native American, 60=White, 70=Other"
+voted,"Have you voted in a national election in the past year?, 1=Yes, 2=No"
+married,"What is your marital status?, 1=Never married, 2=Currently married, 3=Previously married"
+familysize,"Including you, how many children did your mother have?"
+major,"If you attended a university, what was your major (e.g. psychology"", ""English"", ""civil engineering"")?"""
